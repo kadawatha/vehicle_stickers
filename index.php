@@ -56,7 +56,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 
                     <h1 class="go_go" align="center">
-                        <a href="index.php">jayamal grup of company </a>
+                        <a href="index.php">jayamal group of company </a>
                     </h1>
 
 
@@ -172,27 +172,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="stats">
 						<div class="stats_inner">
 							<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">
-								<p class="counter-agileits-w3layouts">2,879</p>
+
 								<div class="stats-text-wthree">
 									<h3>Clients served</h3>
+                                    <h3>Clients served</h3>
+
 								</div>
 							</div>
 							<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">
-								<p class="counter-agileits-w3layouts">85</p>
+
 								<div class="stats-text-wthree">
 									<h3>Cooks & waiters</h3>
+                                    <h3>Cooks & waiters</h3>
 								</div>
 							</div>
 							<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">
-								<p class="counter-agileits-w3layouts">350</p>
+
 								<div class="stats-text-wthree">
 									<h3>Dishes in menu</h3>
+                                    <h3>Dishes in menu</h3>
 								</div>
 							</div>
 							<div class="col-md-6 col-sm-6 col-xs-6 stat-grids">
-								<p class="counter-agileits-w3layouts">75</p>
+
 								<div class="stats-text-wthree">
 									<h3>Beverages</h3>
+                                    <h3>Beverages</h3>
 								</div>
 							</div>
 							<div class="clearfix"> </div>
