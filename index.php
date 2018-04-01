@@ -156,18 +156,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<h3 class="tittle-w3ls">About Us</h3>
 			<div class="about-top-agile">
-				<h3 class="subheading-w3-agile">Best quality and traditional restaurant</h3>
-				<p class="para-w3-agileits">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis tristique est, et egestas odio. Mauris ac tristique
-					arcu, sed interdum risus.Integer quis tristique est, et egestas odio. Mauris ac tristique arcu, sed interdum risus.
-				</p>
+				<h3 class="subheading-w3-agile">Best quality vehicle modification parts</h3>
+				<p class="para-w3-agileits">
+                  We provide vehicle modification parts, other vehicle accessories and services including with professional branded equipment to modify your vehicle
+                  At jayamal group of company, we are driven by mantra to transform your vehicle into a canvas - A canvas which defines your individuality. We offer designer graphics for cars, bikes and scooters
 			</div>
 			<div class="about-main">
 				<div class="col-md-6 about-left">
 				</div>
 
 				<div class="col-md-6 about-right">
-					<h3 class="subheading-w3-agile">The perfect place to enjoy the life and food.</h3>
-					<p class="para-w3-agileits">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis tristique est, et egestas odio, sed interdum risus.</p>
+					<h3 class="subheading-w3-agile">Keep Jazzing up your ride with our passion!</h3>
+					<p class="para-w3-agileits">Car and bike Accessories we have can help increase the comfort and productivity of your vehicle</p>
 					<!-- stats -->
 					<div class="stats">
 						<div class="stats_inner">
