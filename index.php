@@ -1,52 +1,5 @@
 
 
-<?php
-
-class DbConnection {
-
-    protected $type = "mysql";
-    protected $host = "127.0.0.1";
-    protected $db = "ecom_db";
-    protected $user = "root";
-    protected $pass = "";
-
-    public function __construct() {
-
-        $this->db_connect();
-    }
-
-
-    public function db_connect() {
-
-        try {
-            $pdo = new PDO($this->type . ':host=' . $this->host . '; dbname=' . $this->db, $this->user, $this->pass);
-            $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-            $pdo->setAttribute(PDO::ATTR_TIMEOUT, 5);
-            $pdo->exec("SET NAMES utf8");
-
-        } catch (PDOException $e) {
-            include("dbError.php");
-            die();
-        }
-    }
-
-}
-?>
-
-
-
-<?php
-
-$varibale=new DbConnection();
-echo $varibale->db_connect();
-
-$query="select * from ecom_db";
-
-
-
-
-?>
-
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -659,6 +612,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--search-bar-agileits-->
 	<script src="js/main.js"></script>
 	<!--//search-bar-agileits-->
+    <!--change something-->
 
 	<!-- start-smoth-scrolling -->
 	<script type="text/javascript" src="js/move-top.js"></script>
