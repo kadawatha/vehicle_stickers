@@ -599,7 +599,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 
 	<div class="copy-w3-agile">
-		<p>© 2018 Foody Inn . All Rights Reserved | Design by <a href="http://w3layouts.com/">W3layouts</a> </p>
+		<p>© <?php echo date("Y");   ?> Jayamal group of company . All Rights Reserved | Design by <a href="#">SKY DIGITAL</a> </p>
 	</div>
 	<!--// footer -->
 
